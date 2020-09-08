@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+body {
+  background-color: rgb(99, 98, 96);
+  font-family: "Montserrat", sans-serif;
+}
+
+span.navbar-brand {
+  letter-spacing: 4px;
+}
+
+ul.navbar-nav {
+  justify-content: space-around;
+  margin-right: 50px;
+}
+
+.nav-links a {
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
