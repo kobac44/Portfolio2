@@ -22,29 +22,11 @@ ul.navbar-nav {
 }
 
 /* contact page */
-.my-boxes {
-  padding: 250px;
+.container {
+  padding: 100px;
 }
 
-.my-boxes .form-group {
-  padding-bottom: 20px;
-}
-
-.my-boxes label {
-  display: block;
-  font-size: large;
-}
-
-.my-boxes input[type="text"],
-.my-boxes textarea {
-  padding: 10;
-  width: 100%;
-}
-
-.my-boxes input[type="submit"] {
-  background-color: #333;
-  color: #fff;
-  padding: 15px 20px;
-  border: none;
-  font-size: medium;
+form.form-inline {
+  flex-direction: column;
+  align-items: baseline;
 }
