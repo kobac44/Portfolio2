@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
+/* Nav Section of all the pages */
 body {
   background-color: rgb(99, 98, 96);
   font-family: "Montserrat", sans-serif;
@@ -18,4 +19,32 @@ ul.navbar-nav {
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
+}
+
+/* contact page */
+.my-boxes {
+  padding: 250px;
+}
+
+.my-boxes .form-group {
+  padding-bottom: 20px;
+}
+
+.my-boxes label {
+  display: block;
+  font-size: large;
+}
+
+.my-boxes input[type="text"],
+.my-boxes textarea {
+  padding: 10;
+  width: 100%;
+}
+
+.my-boxes input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  font-size: medium;
 }
