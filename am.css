@@ -32,22 +32,27 @@ a {
   background: orangered;
   color: #366b82;
 }
-img {
-}
 h3 {
   text-align: center;
   letter-spacing: 0.3em;
 }
 .card1 {
-  margin-left: 15px;
-  margin-top: auto;
-  width: 300px;
+  margin-left: 20px;
+  margin-top: -90px;
+  width: 350px;
   height: 140px;
-  margin-top: 500px;
+  padding: 15px;
+  margin-top: 550px;
 }
 ul,
 li {
   list-style: none;
   list-style-type: none;
   color: black; /* bullet color */
+}
+#text {
+  display: block;
+}
+a {
+  color: white;
 }
