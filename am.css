@@ -9,6 +9,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+div.nav {
+  justify-content: space-around;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
 .nav {
   overflow: hidden;
   background: #366b82;

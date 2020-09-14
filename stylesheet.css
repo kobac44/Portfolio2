@@ -63,3 +63,8 @@ h3 {
   float: left;
   width: 50%;
 }
+div.card {
+  width: 120px;
+  height: 70px;
+  margin: 30px;
+}
