@@ -53,7 +53,7 @@ ul.navbar-nav {
 
 /* PORTFOLIO page */
 .div-container {
-  height: 200px;
+  height: 400px;
 }
 h3 {
   text-align: center;
@@ -65,6 +65,6 @@ h3 {
 }
 div.card {
   width: 120px;
-  height: 70px;
-  margin: 30px;
+  height: 90px;
+  margin: 90px;
 }

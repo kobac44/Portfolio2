@@ -20,6 +20,14 @@ Kobie Watkins mobile responsive portfolio, is the updated version of his status 
 
 The visuals used were personal photos and a aesthetically pleasing Professional Portfolio.
 
+## Installations
+
+Technologies used:
+
+- HTML5
+- CSS
+- Bootatrap 4.5
+
 ## Contributors
 
 -YouTube
