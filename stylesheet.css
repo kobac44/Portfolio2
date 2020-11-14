@@ -72,20 +72,18 @@ h3 {
   float: left;
   width: 50%;
 }
-div.card {
+/* div.card {
   width: 120px;
   height: 90px;
   margin: 90px;
-}
+} */
 
 img.card-img {
  width: 100%;
  height: 100%;
 }
 
-div.card.p-2 {
-  display: flex;
-}
+
 
 
 
