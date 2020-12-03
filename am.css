@@ -51,7 +51,7 @@ div.card1 {
   grid-auto-rows: minmax(200px, auto);
   margin-top: 15px;
   padding: 10px;
-  align-self:end;
+  align-self: end;
 
   
   /* margin-left: 20px;
