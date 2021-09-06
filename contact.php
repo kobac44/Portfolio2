@@ -1,19 +1,19 @@
-<?php
+<!-- <?php
 
-if(isset($_POST['submit'])) {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $subject = $_POST['subject'];
-    $message = $_POST['message'];
+// if(isset($_POST['submit'])) {
+//     $name = $_POST['name'];
+//     $email = $_POST['email'];
+//     $subject = $_POST['subject'];
+//     $message = $_POST['message'];
 
-    $mailTo = "kobac1@mac.com";
-    $headers = "From: ".$mailFrom;
-    $txt = "You have a message ".$name;".\n\n".$message;
+//     $mailTo = "kobac1@mac.com";
+//     $headers = "From: ".$mailFrom;
+//     $txt = "You have a message ".$name;".\n\n".$message;
 
-    mail($mailTo, $name, $headers);
+//     mail($mailTo, $name, $headers);
 
-    header("Location: index.html?MessageSent");
-}
+//     header("Location: index.html?MessageSent");
+// } -->
 
 // Database
 // $conn = new mysqli('localhost', 'root', '', 'contact_me');
