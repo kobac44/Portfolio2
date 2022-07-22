@@ -23,7 +23,8 @@ ul.navbar-nav {
   width: 50%;
 }
 
-.nav-links a {
+/*needs to be evenly spaced*/
+.nav-links a { 
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
