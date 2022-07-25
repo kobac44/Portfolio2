@@ -5,22 +5,23 @@ body {
   background-color: rgb(99, 98, 96);
   font-family: "Montserrat", sans-serif;
 }
-  
+
 span.navbar-brand {
   letter-spacing: 4px;
 }
-  
+
 ul.navbar-nav {
   justify-content: space-around;
   margin-right: 50px;
   margin-left: 20px;
   width: 50%;
 }
-  
-.nav-links a {
+
+/*needs to be evenly spaced*/
+a.nav-links  { 
   letter-spacing: 3px;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 ul {
