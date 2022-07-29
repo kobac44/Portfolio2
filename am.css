@@ -43,6 +43,10 @@ h3 {
   letter-spacing: 0.3em;
 }
 
+.container {
+  max-width: 100%;
+}
+
 div.card1 {
   display: grid;
   grid-template-columns: 1fr ;
