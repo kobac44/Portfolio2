@@ -15,7 +15,8 @@ div.nav {
   margin-left: 20px;
 }
 
-.nav {
+div.nav {
+  display: flex;
   overflow: hidden;
   background: #366b82;
 }
@@ -30,6 +31,7 @@ div.nav {
   font-weight: bold;
   text-transform: uppercase;
 }
+
 a {
   margin-left: 20px;
   margin-right: 20px;
