@@ -9,37 +9,38 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-div.nav {
+nav.navbar {
+  display: flex;
+  flex: start;
+  background: #366b82;
   justify-content: space-around;
   margin-right: 0;
   margin-left: 0;
 }
 
-div.nav {
-  display: flex;
-  overflow: hidden;
-  background: #366b82;
-}
-.nav a {
-  display: flex;
-  color: #fff;
-  text-align: center;
-  padding: 20px 16px;
-  font-size: 14px;
-  width: 100px;
-  text-decoration: none;
-  font-weight: bold;
-  text-transform: uppercase;
+span.navbar-toggler-icon {
+  color: #fff
 }
 
-a {
+ul.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 50px;
   margin-left: 20px;
-  margin-right: 20px;
+  width: 50%;
 }
+
+a.nav-links {
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
 .nav a:hover {
   background: orangered;
   color: #366b82;
 }
+
 h3 {
   text-align: center;
   letter-spacing: 0.3em;

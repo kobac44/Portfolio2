@@ -12,7 +12,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-.navbar-brand {
+span.navbar-brand {
   letter-spacing: 4px;
 }
 
@@ -68,7 +68,7 @@ a.nav-links  {
   height: 100%;
   width: 100%;
 }
-h3 {
+h2 {
   text-align: center;
   letter-spacing: 4px;
 }
