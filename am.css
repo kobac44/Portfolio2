@@ -11,11 +11,15 @@ body {
 
 nav.navbar {
   display: flex;
-  flex: start;
   background: #366b82;
   justify-content: space-around;
   margin-right: 0;
   margin-left: 0;
+}
+
+span.navbar-brand {
+  margin: 0;
+  padding: 0;
 }
 
 span.navbar-toggler-icon {
