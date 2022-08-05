@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 /* Nav Section of all the pages */
 body {
   background-color: rgb(99, 98, 96);
@@ -18,7 +24,7 @@ ul.navbar-nav {
 }
 
 /*needs to be evenly spaced*/
-a.nav-links  { 
+a.nav-link  { 
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
@@ -31,13 +37,13 @@ ul {
   display: flex;
 }
 
-ul li a {
+div.d-flex {
   width: 80;
   height: 80px;
   display: flex;
   align-items: flex-start;
   margin: 10px 10px;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   color:rgb(197, 192, 187);
 }

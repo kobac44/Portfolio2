@@ -18,12 +18,7 @@ nav.navbar {
 }
 
 span.navbar-brand {
-  margin: 0;
-  padding: 0;
-}
-
-span.navbar-toggler-icon {
-  color: #fff
+  left: 20px;
 }
 
 ul.navbar-nav {
@@ -34,7 +29,7 @@ ul.navbar-nav {
   width: 50%;
 }
 
-a.nav-links {
+a.nav-link {
   letter-spacing: 3px;
   font-weight: bold;
   font-size: 14px;
