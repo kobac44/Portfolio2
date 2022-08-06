@@ -8,7 +8,7 @@
 
 /* Nav Section of all the pages */
 body {
-  background-color: rgb(99, 98, 96);
+  background-color: #6c757d;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -44,6 +44,11 @@ div.d-flex {
   align-items: flex-start;
   margin: 10px 10px;
   text-decoration: none;
-  font-size: 20px;
-  color:rgb(197, 192, 187);
+  font-size: 30px;
+  /* color:rgb(197, 192, 187); */
+  border-radius: 50%;
+}
+
+div.d-flex:hover {
+  color: red;
 }
