@@ -37,18 +37,24 @@ ul {
   display: flex;
 }
 
+div.container-fluid {
+  height: 40px;
+}
+
+
 div.d-flex {
   width: 80;
   height: 80px;
   display: flex;
   align-items: flex-start;
-  margin: 10px 10px;
+  margin: 0px 20px;
   text-decoration: none;
   font-size: 30px;
-  /* color:rgb(197, 192, 187); */
   border-radius: 50%;
+ 
 }
 
-div.d-flex:hover {
-  color: red;
-}
+
+
+
+
