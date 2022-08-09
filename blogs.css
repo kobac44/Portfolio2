@@ -41,20 +41,27 @@ div.container-fluid {
   height: 40px;
 }
 
-
-div.d-flex {
+i {
   width: 80;
   height: 80px;
   display: flex;
   align-items: flex-start;
-  margin: 0px 20px;
+  margin: 5px 20px;
   text-decoration: none;
   font-size: 30px;
   border-radius: 50%;
- 
 }
 
+li {
+  list-style: none;
+}
 
+img {
+  width: 100%;
+}
 
+section {
+  padding: 3rem 0 2rem;
+}
 
 
