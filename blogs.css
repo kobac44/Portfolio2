@@ -16,10 +16,10 @@ span.navbar-brand {
   letter-spacing: 4px;
 }
 
-ul.navbar-nav {
+div.navbar-nav {
   justify-content: space-around;
   margin-right: 50px;
-  margin-left: 20px;
+  margin-left: 40px;
   width: 50%;
 }
 
@@ -30,7 +30,7 @@ a.nav-link  {
   font-size: 14px;
 }
 
-ul {
+a {
   list-style-type: none;
   padding: 0px 0px 0px 0px;
   justify-content: flex-start;
@@ -42,15 +42,19 @@ div.container-fluid {
 }
 
 i {
-  width: 80;
-  height: 80px;
+  /* width: 80;
+  height: 80px; */
   display: flex;
-  align-items: flex-start;
-  margin: 5px 20px;
+  align-items: center;
   text-decoration: none;
   font-size: 30px;
+  /* margin: 10px 20px; */
   border-radius: 50%;
+  justify-content: center;
+  align-items: center;
 }
+
+
 
 li {
   list-style: none;
