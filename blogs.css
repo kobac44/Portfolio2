@@ -37,6 +37,7 @@ a {
   display: flex;
 }
 
+/* This is the social media icon styling */
 .centerdiv {
   height: 20vh;
   display: flex;
@@ -48,23 +49,17 @@ a1 {
   height: 40px;
   width: 40px;
   background-color: #d25313;
-  border-radius: 50px;
+  border-radius: 70px;
   text-align: center;
   margin: 20px;
   line-height: 40px;
   box-shadow: 1px 4px 2px 2px #366b82;
 }
 
-
-
-/* li {
-  list-style: none;
+a1 i {
+  transition: all 0.3s;
 }
 
-img {
-  width: 100%;
-} */
-
-/* section {
-  padding: 3rem 0 2rem;
+a1:hover i {
+  font-size: 25px;
 }
