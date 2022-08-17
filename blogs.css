@@ -64,3 +64,22 @@ a1 i {
 a1:hover i {
   font-size: 25px;
 }
+
+div.cart-container {
+  margin: 10px;
+}
+
+.cart-container .card {
+  width: 240px;
+  background: #d0d0ced5;
+  font-family: "Montserrat", sans-serif;
+  padding: 16px;
+}
+
+.cart-container .card a {
+  text-decoration: none;
+  color: #14213d;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
