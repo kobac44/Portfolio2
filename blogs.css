@@ -73,10 +73,13 @@ a1:hover i {
   font-size: 25px;
 }
 
+
+
 .card {
-  margin: 100px auto0;
+  margin: 100px auto 0;
   width: 400px;
   height: 600px;
+  margin-bottom: 100px;
 }
 
 .card_inner {
